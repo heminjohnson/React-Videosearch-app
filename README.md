@@ -1,4 +1,4 @@
-# React Youtube Clone
+# React Videosearch App
 
 ### Getting Started
 
